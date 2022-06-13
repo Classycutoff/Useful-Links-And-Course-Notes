@@ -102,3 +102,9 @@ This repository can be a shocker for some peoples. It contains a list that you a
 ### [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques ! I ❤️ pull requests :)
 - [Repo](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
+
+### [SecLists](https://github.com/danielmiessler/SecLists)
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.
+- [Repo](https://github.com/danielmiessler/SecLists)
+
