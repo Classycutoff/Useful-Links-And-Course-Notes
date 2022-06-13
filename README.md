@@ -4,6 +4,8 @@ There's a lot of interesting Repos I found that you can use in your studies ,thi
 
 [Original source](https://medium.com/pythoneers/35-most-valuable-github-repositories-for-developers-45ab9df1af81)
 
+- [Other Useful Links](https://gitlab.labranet.jamk.fi/wimma-lab-2022/useful-repos/-/blob/main/Other_Useful_Links.md)
+
 
 ### [The Algorithm](https://github.com/TheAlgorithms)
 It is one of the best GitHub repositories for learning data structures and algorithms using different languages. Data Structures must be known for every computer science student. Whether you are a python developer, Java developer, Go developer, or some old-school C++ developer, there is something for everyone in this repository that you should learn. All the algorithms and data structures present here are explained very easily. They also have [a website](https://the-algorithms.com/) for easy access to all the code.
