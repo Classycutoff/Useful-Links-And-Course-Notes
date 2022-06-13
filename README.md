@@ -111,5 +111,6 @@ SecLists is the security tester's companion. It's a collection of multiple types
 
 ### [zxcvbn](https://github.com/dropbox/zxcvbn)
 zxcvbn is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (aaa), sequences (abcd), keyboard patterns (qwertyuiop), and l33t speak.
+- [Online zxcvbn](https://lowe.github.io/tryzxcvbn/)
 - [Repo](https://github.com/dropbox/zxcvbn)
 
