@@ -12,3 +12,8 @@ Cross-Site Scripting (XSS) is a misnomer. The name originated from early version
 ### [Leaked Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases)
 Leaked Database
 - [Link](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases)
+
+
+### [Cyberchef](https://gchq.github.io/CyberChef/)
+Different encoding and decoding stuff
+- [Link](https://gchq.github.io/CyberChef/)
