@@ -108,3 +108,8 @@ A list of useful payloads and bypasses for Web Application Security. Feel free t
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.
 - [Repo](https://github.com/danielmiessler/SecLists)
 
+
+### [zxcvbn](https://github.com/dropbox/zxcvbn)
+zxcvbn is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (aaa), sequences (abcd), keyboard patterns (qwertyuiop), and l33t speak.
+- [Repo](https://github.com/dropbox/zxcvbn)
+
