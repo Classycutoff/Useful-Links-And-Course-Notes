@@ -97,3 +97,6 @@ This repository can be a shocker for some peoples. It contains a list that you a
 - [Repo](https://github.com/you-dont-need/You-Dont-Need)
 
 
+### [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques ! I ❤️ pull requests :)
+- [Repo](https://github.com/swisskyrepo/PayloadsAllTheThings)
