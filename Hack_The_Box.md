@@ -272,8 +272,14 @@ exit
 ```
 
 
+### Oopsie
 
-
+- All this stuff
+- Using Burdpsuite
+- got login info as a guest, looking for other info
+  - 2	client	client@client.htb
+  - 34322	admin	admin@megacorp.com
+- 2-reverse-shell.php
 
 
 

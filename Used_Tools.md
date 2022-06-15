@@ -47,6 +47,8 @@ WinRM (Windows Remote Management) is the Microsoft implementation of WS-Manageme
 - john
   - Password Cracker
   - John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems.
+- Burp Suite
+  - A web crawler (also known as a web spider or web robot) is a program or automatedscript which browses the World Wide Web in a methodical, automated manner. This processis called Web crawling or spidering. Many legitimate sites, in particular searchengines, use spidering as a means of providing up-to-date data.If you tunnel web traffic through Burp Suite (without intercepting the packets), bydefault it can passively spider the website, update the site map with all of thecontents requested and thus creating a tree of files and directories without sendingany further requests.
 
 
 ## CMD's
