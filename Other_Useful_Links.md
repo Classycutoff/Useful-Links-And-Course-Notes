@@ -42,3 +42,25 @@ Gitleaks is a SAST tool for detecting and preventing hardcoded secrets like pass
 ### [ssrf Cheat Sheet](https://highon.coffee/blog/ssrf-cheat-sheet/)
 Yup.
 - [Link](https://highon.coffee/blog/ssrf-cheat-sheet/)
+
+
+### [MySQL Cheat Sheet](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
+MySQL Cheat Sheet.
+- [Link](https://www.mysqltutorial.org/mysql-cheat-sheet.aspx)
+
+### [Pentesting MSSQL](https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microsoft-sql-server)
+- [Link](https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microsoft-sql-server)
+
+
+### [MSSQL Injection Cheat Sheet](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
+MSSQL Cheat Sheet
+- [Link](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
+
+
+### [PEASS-ng, Privilege Escalation Awesome Scripts](https://github.com/carlospolop/PEASS-ng)
+Here you will find privilege escalation tools for Windows and Linux/Unix* and MacOS.
+
+These tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.
+- [Link](https://github.com/carlospolop/PEASS-ng)
+
+
