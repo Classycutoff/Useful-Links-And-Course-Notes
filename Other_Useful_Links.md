@@ -9,6 +9,11 @@ Cross-Site Scripting (XSS) is a misnomer. The name originated from early version
 - [Link](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 
 
+### [Cross-Site Request Forgery Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+Cross-Site Request Forgery (CSRF) is a type of attack that occurs when a malicious web site, email, blog, instant message, or program causes a user's web browser to perform an unwanted action on a trusted site when the user is authenticated. A CSRF attack works because browser requests automatically include all cookies including session cookies. Therefore, if the user is authenticated to the site, the site cannot distinguish between legitimate authorized requests and forged authenticated requests. This attack is thwarted when proper Authorization is used, which implies that a challenge-response mechanism is required that verifies the identity and authority of the requester.
+- [Link](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
+
 ### [Leaked Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases)
 Leaked Database
 - [Link](https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases)
@@ -17,3 +22,23 @@ Leaked Database
 ### [Cyberchef](https://gchq.github.io/CyberChef/)
 Different encoding and decoding stuff
 - [Link](https://gchq.github.io/CyberChef/)
+
+### [ffuf](https://github.com/ffuf/ffuf)
+Fuzz Faster U Fool, A fast web fuzzer written in go. (Fuzzing is inputting incorrect data to a site and see if it breaks. Web fuzzing is where different URL's are tried from a wordlist)
+- [Link](https://github.com/ffuf/ffuf)
+- [Web Content Wordlist](https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/quickhits.txt)
+
+
+### [goop](https://github.com/deletescape/goop)
+Yet another tool to dump a git repository from a website. goop tries to focus on as-complete-as-possible dumps and handling as many edge-cases as possible, compared to other tools, which seem to focus on bare minimum dumps. Original codebase heavily inspired by arthaud/git-dumper.
+- [Link](https://github.com/deletescape/goop)
+
+
+### [gitleaks](https://github.com/zricethezav/gitleaks)
+Gitleaks is a SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos. Gitleaks is an easy-to-use, all-in-one solution for detecting secrets, past or present, in your code.
+- [Link](https://github.com/zricethezav/gitleaks)
+
+
+### [ssrf Cheat Sheet](https://highon.coffee/blog/ssrf-cheat-sheet/)
+Yup.
+- [Link](https://highon.coffee/blog/ssrf-cheat-sheet/)
