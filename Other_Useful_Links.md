@@ -69,7 +69,7 @@ There are a lot of Capture The Flag (CTF) competitions in our days, some of them
 
 
 ### [Ex-NSA Hacker tells us how to get into hacking](https://youtu.be/SFbV7sTSAlA)
-================
+
 Links:
 ================
 - [INE](https://bit.ly/freeinetraining)
