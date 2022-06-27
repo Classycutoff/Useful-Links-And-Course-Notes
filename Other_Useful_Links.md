@@ -82,3 +82,11 @@ Links:
 - [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - [Cyber Blue](https://securityblue.team/)
 - [Cyber Defenders](https://cyberdefenders.org/)
+
+
+### [Live cyber threat map](https://threatmap.checkpoint.com/)
+Live Cyber Threat Map
+- [Link](https://threatmap.checkpoint.com/)
+
+### [Getting started in Cyber Security](https://www.sans.org/cybersecurity-careers/?msc=home-card-gallery)
+- [Link](https://www.sans.org/cybersecurity-careers/?msc=home-card-gallery)
