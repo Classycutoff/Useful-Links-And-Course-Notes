@@ -63,4 +63,8 @@ Here you will find privilege escalation tools for Windows and Linux/Unix* and Ma
 These tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.
 - [Link](https://github.com/carlospolop/PEASS-ng)
 
+### [CTF Time](https://ctftime.org/ctfs)
+There are a lot of Capture The Flag (CTF) competitions in our days, some of them have excelent tasks, but in most cases they're forgotten just after the CTF finished. We decided to make some kind of CTF archive and of course, it'll be too boring to have just an archive, so we made a place, where you can get some another CTF-related info - current overall Capture The Flag team rating, per-team statistics etc.
+- [Link](https://ctftime.org/ctfs)
+
 
