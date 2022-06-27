@@ -68,3 +68,17 @@ There are a lot of Capture The Flag (CTF) competitions in our days, some of them
 - [Link](https://ctftime.org/ctfs)
 
 
+### [Ex-NSA Hacker tells us how to get into hacking](https://youtu.be/SFbV7sTSAlA)
+================
+Links:
+================
+- [INE](https://bit.ly/freeinetraining)
+- [OSCP](https://www.offensive-security.com/courses-and-certifications/)
+- [eLearn Security](https://elearnsecurity.com)
+- [SANS](https://www.sans.org/)
+- [Hack the box](https://www.hackthebox.eu/)
+- [Try Hack Me](https://tryhackme.com/)
+- [CTF Time](https://ctftime.org/ctf-wtf/)
+- [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- [Cyber Blue](https://securityblue.team/)
+- [Cyber Defenders](https://cyberdefenders.org/)
