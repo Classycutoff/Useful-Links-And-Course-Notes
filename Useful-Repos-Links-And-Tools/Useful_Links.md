@@ -95,5 +95,6 @@ Live Cyber Threat Map
 Find your cybersecurity degree or certification
 The internet and digital technology continue to grow and become more central to everyday activity. And with that growth comes increased risks associated with a hyper-connected life. 
 - [Link](https://cybersecurityguide.org/)
+- [Reading List](https://cybersecurityguide.org/resources/reading-list/)
 
 
