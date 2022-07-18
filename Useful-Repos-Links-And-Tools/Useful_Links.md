@@ -90,3 +90,15 @@ Live Cyber Threat Map
 
 ### [Getting started in Cyber Security](https://www.sans.org/cybersecurity-careers/?msc=home-card-gallery)
 - [Link](https://www.sans.org/cybersecurity-careers/?msc=home-card-gallery)
+
+### [Cyber Security](https://cybersecurityguide.org/)
+Find your cybersecurity degree or certification
+The internet and digital technology continue to grow and become more central to everyday activity. And with that growth comes increased risks associated with a hyper-connected life. 
+- [Link](https://cybersecurityguide.org/)
+- [Reading List](https://cybersecurityguide.org/resources/reading-list/)
+
+
+### [Over The Wire](https://overthewire.org/wargames/)
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+To find out more about a certain wargame, just visit its page linked from the menu on the left.
+- [Link](https://overthewire.org/wargames/)
