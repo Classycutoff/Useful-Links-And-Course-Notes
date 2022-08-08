@@ -140,3 +140,48 @@ DevSecOps is an extension of the DevOps movement that aims to bring security pra
 ### [Awesome Hacking Locations](https://github.com/daviddias/awesome-hacking-locations#readme)
 List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the awesome lists thing.
 - [Repo Link](https://github.com/daviddias/awesome-hacking-locations#readme)
+
+
+### [Steganography](https://0xrick.github.io/lists/stego/)
+Steganography is hiding a file or a message inside of another file , there are many fun steganography CTF challenges out there where the flag is hidden in an image , audio file or even other types of files. Here is a list of the most tools I use and some other useful resources.
+- [Steganography](https://0xrick.github.io/lists/stego/)
+
+
+### [Exploit Database](https://www.exploit-db.com/)
+tends to be very useful for hackers, as it often actually contains exploits that can be downloaded and used straight out of the box. It tends to be one of the first stops when you encounter software in a CTF or pentest.
+- [Link](https://www.exploit-db.com/)
+
+
+### [NVD Exploit List](https://nvd.nist.gov/vuln/search)
+NVD keeps track of CVEs (Common Vulnerabilities and Exposures) -- whether or not there is an exploit publicly available -- so it's a really good place to look if you're researching vulnerabilities in a specific piece of software. CVEs take the form: CVE-YEAR-IDNUMBER
+- [Link](https://nvd.nist.gov/vuln/search)
+
+
+### [CVE Mitre](https://cve.mitre.org/)
+The mission of the CVE® Program is to identify, define, and catalog publicly disclosed cybersecurity vulnerabilities.
+- [Link](https://cve.mitre.org/)
+
+### [Red Team Guide](http://redteam.guide/)
+A practical guide to Red Team Operations, written by: Joe Vest and James Tubberville.
+
+There's also a Red Team Checklist, that they offer:
+- [Red team Checklist](https://redteam.guide/docs/checklists/red-team-checklist/)
+
+
+### [Nmap Vulnerability Scan](https://geekflare.com/nmap-vulnerability-scan/)
+Nmap scripting engine (NSE) Script is one of the most popular and powerful capabilities of Nmap. These Nmap vulnerability scan scripts are used by penetration testers and hackers to examine common known vulnerabilities.
+
+Common Vulnerabilities and Exposures (CVE) is a database of publicly disclosed data security issues. It serves as a reference model for detecting vulnerabilities and threats related to the security of information systems.In this article, we’ll look at how to use Nmap for Vulnerability Scan.
+- [Link to the article](https://geekflare.com/nmap-vulnerability-scan/)
+
+
+### [The harvester](https://www.kali.org/tools/theharvester/)
+The package contains a tool for gathering subdomain names, e-mail addresses, virtual hosts, open ports/ banners, and employee names from different public sources (search engines, pgp key servers).
+- [link](https://www.kali.org/tools/theharvester/)
+
+
+### [recon-ng](https://www.kali.org/tools/theharvester/https://www.kali.org/tools/recon-ng/)
+Recon-ng is a full-featured Web Reconnaissance framework written in Python. Complete with independent modules, database interaction, built in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted quickly and thoroughly.
+
+Recon-ng has a look and feel similar to the Metasploit Framework, reducing the learning curve for leveraging the framework. However, it is quite different. Recon-ng is not intended to compete with existing frameworks, as it is designed exclusively for web-based open source reconnaissance. If you want to exploit, use the Metasploit Framework. If you want to Social Engineer, use the Social Engineer Toolkit.
+- [link](https://www.kali.org/tools/recon-ng/)
