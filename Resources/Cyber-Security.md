@@ -185,3 +185,10 @@ Recon-ng is a full-featured Web Reconnaissance framework written in Python. Comp
 
 Recon-ng has a look and feel similar to the Metasploit Framework, reducing the learning curve for leveraging the framework. However, it is quite different. Recon-ng is not intended to compete with existing frameworks, as it is designed exclusively for web-based open source reconnaissance. If you want to exploit, use the Metasploit Framework. If you want to Social Engineer, use the Social Engineer Toolkit.
 - [link](https://www.kali.org/tools/recon-ng/)
+
+
+### [Cyber Security Resources](https://github.com/vlakhani28/Cyber-Security-Resources)
+The following are the resources which i use and like the most.
+
+This will be regularly updated.
+- [Resource Link](https://github.com/vlakhani28/Cyber-Security-Resources)
